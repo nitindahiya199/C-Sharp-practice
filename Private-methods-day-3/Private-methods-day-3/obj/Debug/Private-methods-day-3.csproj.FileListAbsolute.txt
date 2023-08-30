@@ -1,0 +1,7 @@
+C:\Users\91868\source\repos\Private-methods-day-3\Private-methods-day-3\bin\Debug\Private-methods-day-3.exe.config
+C:\Users\91868\source\repos\Private-methods-day-3\Private-methods-day-3\bin\Debug\Private-methods-day-3.exe
+C:\Users\91868\source\repos\Private-methods-day-3\Private-methods-day-3\bin\Debug\Private-methods-day-3.pdb
+C:\Users\91868\source\repos\Private-methods-day-3\Private-methods-day-3\obj\Debug\Private-methods-day-3.csproj.AssemblyReference.cache
+C:\Users\91868\source\repos\Private-methods-day-3\Private-methods-day-3\obj\Debug\Private-methods-day-3.csproj.CoreCompileInputs.cache
+C:\Users\91868\source\repos\Private-methods-day-3\Private-methods-day-3\obj\Debug\Private-methods-day-3.exe
+C:\Users\91868\source\repos\Private-methods-day-3\Private-methods-day-3\obj\Debug\Private-methods-day-3.pdb
