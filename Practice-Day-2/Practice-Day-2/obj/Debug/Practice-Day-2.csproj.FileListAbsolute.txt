@@ -1,0 +1,7 @@
+C:\Users\91868\source\repos\Practice-Day-2\Practice-Day-2\bin\Debug\Practice-Day-2.exe.config
+C:\Users\91868\source\repos\Practice-Day-2\Practice-Day-2\bin\Debug\Practice-Day-2.exe
+C:\Users\91868\source\repos\Practice-Day-2\Practice-Day-2\bin\Debug\Practice-Day-2.pdb
+C:\Users\91868\source\repos\Practice-Day-2\Practice-Day-2\obj\Debug\Practice-Day-2.csproj.AssemblyReference.cache
+C:\Users\91868\source\repos\Practice-Day-2\Practice-Day-2\obj\Debug\Practice-Day-2.csproj.CoreCompileInputs.cache
+C:\Users\91868\source\repos\Practice-Day-2\Practice-Day-2\obj\Debug\Practice-Day-2.exe
+C:\Users\91868\source\repos\Practice-Day-2\Practice-Day-2\obj\Debug\Practice-Day-2.pdb
