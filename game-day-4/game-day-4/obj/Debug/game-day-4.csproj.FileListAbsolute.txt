@@ -1,0 +1,7 @@
+C:\Users\91868\source\repos\game-day-4\game-day-4\bin\Debug\game-day-4.exe.config
+C:\Users\91868\source\repos\game-day-4\game-day-4\bin\Debug\game-day-4.exe
+C:\Users\91868\source\repos\game-day-4\game-day-4\bin\Debug\game-day-4.pdb
+C:\Users\91868\source\repos\game-day-4\game-day-4\obj\Debug\game-day-4.csproj.AssemblyReference.cache
+C:\Users\91868\source\repos\game-day-4\game-day-4\obj\Debug\game-day-4.csproj.CoreCompileInputs.cache
+C:\Users\91868\source\repos\game-day-4\game-day-4\obj\Debug\game-day-4.exe
+C:\Users\91868\source\repos\game-day-4\game-day-4\obj\Debug\game-day-4.pdb
