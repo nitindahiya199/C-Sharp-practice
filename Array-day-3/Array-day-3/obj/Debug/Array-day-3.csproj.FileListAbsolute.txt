@@ -1,0 +1,7 @@
+C:\Users\91868\source\repos\Array-day-3\Array-day-3\obj\Debug\Array-day-3.csproj.AssemblyReference.cache
+C:\Users\91868\source\repos\Array-day-3\Array-day-3\obj\Debug\Array-day-3.csproj.CoreCompileInputs.cache
+C:\Users\91868\source\repos\Array-day-3\Array-day-3\bin\Debug\Array-day-3.exe.config
+C:\Users\91868\source\repos\Array-day-3\Array-day-3\bin\Debug\Array-day-3.exe
+C:\Users\91868\source\repos\Array-day-3\Array-day-3\bin\Debug\Array-day-3.pdb
+C:\Users\91868\source\repos\Array-day-3\Array-day-3\obj\Debug\Array-day-3.exe
+C:\Users\91868\source\repos\Array-day-3\Array-day-3\obj\Debug\Array-day-3.pdb
