@@ -1,0 +1,7 @@
+C:\Users\91868\source\repos\c-sharp-first-project\c-sharp-first-project\bin\Debug\c-sharp-first-project.exe.config
+C:\Users\91868\source\repos\c-sharp-first-project\c-sharp-first-project\bin\Debug\c-sharp-first-project.exe
+C:\Users\91868\source\repos\c-sharp-first-project\c-sharp-first-project\bin\Debug\c-sharp-first-project.pdb
+C:\Users\91868\source\repos\c-sharp-first-project\c-sharp-first-project\obj\Debug\c-sharp-first-project.csproj.AssemblyReference.cache
+C:\Users\91868\source\repos\c-sharp-first-project\c-sharp-first-project\obj\Debug\c-sharp-first-project.csproj.CoreCompileInputs.cache
+C:\Users\91868\source\repos\c-sharp-first-project\c-sharp-first-project\obj\Debug\c-sharp-first-project.exe
+C:\Users\91868\source\repos\c-sharp-first-project\c-sharp-first-project\obj\Debug\c-sharp-first-project.pdb
