@@ -1,0 +1,7 @@
+C:\Users\91868\source\repos\Date-and-time-day-5\Date-and-time-day-5\obj\Debug\Date-and-time-day-5.csproj.AssemblyReference.cache
+C:\Users\91868\source\repos\Date-and-time-day-5\Date-and-time-day-5\obj\Debug\Date-and-time-day-5.csproj.CoreCompileInputs.cache
+C:\Users\91868\source\repos\Date-and-time-day-5\Date-and-time-day-5\bin\Debug\Date-and-time-day-5.exe.config
+C:\Users\91868\source\repos\Date-and-time-day-5\Date-and-time-day-5\bin\Debug\Date-and-time-day-5.exe
+C:\Users\91868\source\repos\Date-and-time-day-5\Date-and-time-day-5\bin\Debug\Date-and-time-day-5.pdb
+C:\Users\91868\source\repos\Date-and-time-day-5\Date-and-time-day-5\obj\Debug\Date-and-time-day-5.exe
+C:\Users\91868\source\repos\Date-and-time-day-5\Date-and-time-day-5\obj\Debug\Date-and-time-day-5.pdb
